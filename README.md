@@ -35,7 +35,7 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SuhasKamate/Business_Management_Project.git <br>
+1. Clone the repository : $ git clone https://github.com/PRINCEGOTI12/Business-Management-System.git <br>
 
 2. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
